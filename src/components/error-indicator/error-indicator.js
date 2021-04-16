@@ -1,8 +1,8 @@
-import React from 'react';
-import './error-indicator.css';
+import React from "react";
+import "./error-indicator.css";
 
 const ErrorIndicator = () => {
-    return <div>Error Indicator</div>
-}
+  return <div>Error Indicator</div>;
+};
 
 export default ErrorIndicator;
