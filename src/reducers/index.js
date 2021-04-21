@@ -7,6 +7,6 @@ const reducer = (state, action) => {
     shoppingCart: updateShoppingCart(state, action),
   };
 };
-ass
+
 
 export default reducer;
